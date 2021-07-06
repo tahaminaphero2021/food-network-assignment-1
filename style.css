@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    background:#111; 
+    color:#fff;
+    padding:20px 20px;
+    font-size: 14px;
+    font-weight:500;
+    
+}
+.information{
+    display:inline;
+    list-style: none;
+
+}
+.information li{
+    display:inline-block;
+    padding:30px;
+    font-size:20px;
+}
+.mainNavBar {
+    background:orange; 
+    color:#fff;
+justify-content: center;
+    display:flex;   
+ 
+}
+.menu{
+    display:inline;
+    list-style: none;
+}
+.menu li{
+    display:inline-block;
+    padding:20px;
+    font-size:20px;
+}
+
+p{
+    font-size:20px;
+}
+
+.orange-color{
+    color:orange;
+    font-weight: 600;
+    
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.healthy-food{
+    width:50%;
+    padding-left:10%;
+    margin-top:20%;
+    
+} 
+.healthy-food h1{ 
+    font-size:55px;
+    margin-left:10px; 
+    margin-right:20px;
+    
+}  
+.healthy-food img{
+    width:100%;
+    margin-top:55px;
+    padding-top:2%;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    padding: 20px 30px;
+    border-radius:20px;
+    color:white;
+    font-weight: 500;
+    margin-left: 40px;
+    margin-top:40px;
+}
