@@ -53,7 +53,8 @@ p{
 .flexible-container{
     display: flex;
     margin-bottom: 150px;
-}.healthy-food{
+}
+.healthy-food{
     width:50%;
     padding-left:10%;
     margin-top:20%;
@@ -222,3 +223,4 @@ footer{
 .footer-bottom p{
 font-size:14px;
 }
+
