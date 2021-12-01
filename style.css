@@ -166,6 +166,27 @@ border-image-slice: 1;
     
     
 }
+------------------
+.recipies{
+    margin:100px 100px 100px 100px;
+}
+.recipies h2{
+text-align: center;
+font-size: 50px;
+}
+.recipies p{
+    text-align: center;
+}
+.recipe-items{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    border: 1px gray;
+   
+}
 footer{
     background:#111;
     color:white;
